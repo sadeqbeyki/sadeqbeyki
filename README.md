@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨ I'm a .net developer ✨
+
 <!--
 **sadeqbeyki/sadeqbeyki** is a ✨ asp .net developer ✨
 
